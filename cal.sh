@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "project management in github"
+
 num1=$(<num1.txt)
 num2=$(<num2.txt)
 
